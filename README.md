@@ -3,6 +3,7 @@
 ## Project Overview
 A minimalist Ethereum smart contract that serves as a rudimentary bank, User can:
 1. Can deposit ETH.
+2. Withdraw their funds anytime. 
 
 ## 📌 Features
 
