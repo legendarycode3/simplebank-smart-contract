@@ -1,7 +1,8 @@
 #  🏦 Simple Bank Smart Contract
 
 ## Project Overview
-A minimalist Ethereum smart contract that serves as a rudimentary bank.
+A minimalist Ethereum smart contract that serves as a rudimentary bank, User can:
+1. Can deposit ETH.
 
 ## 📌 Features
 
