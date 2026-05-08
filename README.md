@@ -1,3 +1,4 @@
+#  🏦 Simple Bank Smart Contract
 
 ## Foundry
 
