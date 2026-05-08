@@ -1,9 +1,11 @@
 #  🏦 Simple Bank Smart Contract
 
 ## Project Overview
-A minimalist Ethereum smart contract that serves as a rudimentary bank, User can:
+A minimalist Ethereum smart contract that serves as a rudimentary bank, User can do the following:
 1. Can deposit ETH.
-2. Withdraw their funds anytime. 
+2. Withdraw their funds anytime.
+3. Can view and Get their account balances.
+4. This project demonstrates safe handling of ether transfers to prevent reentrancy attacks and ensures individual data privacy on a public ledger.
 
 ## 📌 Features
 
