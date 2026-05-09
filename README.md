@@ -35,6 +35,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 ## Technology Stack (Technologies Used)
 * ****[Solidity](https://www.soliditylang.org/)**** -
 * ****[Remix IDE](https://remix.ethereum.org/)**** -
+* ****[Foundry(forge, cast, anvil)](https://www.getfoundry.sh/)****  -
 
 ## Getting Started
 
