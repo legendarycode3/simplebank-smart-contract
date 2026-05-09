@@ -19,6 +19,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Depositor Address Storage:**** The contract keeps a list of all depositors.
 
 ## 🧠 Key Concepts Applied
+* ****Mapping:****
 
 ## 📂 Project Structure (Files)
 
