@@ -60,6 +60,9 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
       git clone https://github.com/legendarycode3/simplebank-smart-contract
    ```
 2. Navigate to the directory you created and cloned the file to:
+   ```shell
+        cd simplebank-smart-contract
+   ```
 
 ## 📋Contract Details
 
