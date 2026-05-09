@@ -88,7 +88,9 @@ Runing specific test:
 
 ## Usage Guide (How to use - When using Remix IDE)
 1. ****Compile:**** Compile the contract.
-2. ****Deployment: :**** Contract deployment execution.
+2. ****Deployment:**** Contract deployment execution.
+3. ****deposit:**** Deposit fund into your address if you have no funds, and make sure it is higher or equalto the minimum ETH that can be accepted.
+4. 
 
 ## Why This Matters (Simple Bank Smart Contract)****
 The Simple Bank smart contract matters in Web3 because it provides:
