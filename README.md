@@ -78,7 +78,7 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 * ****`deposit()`:**** Allows user to be able to deposit Eth into their address.
-* ****`withdrawal()`:****
+* ****`withdrawal()`:**** function that allows a user to withdraw their funds from the smart contract.
 
 ### Variables:
 
