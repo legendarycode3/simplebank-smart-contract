@@ -25,7 +25,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Functions:**** Reusable blocks of logic.
 * ****msg.sender:**** A global variable ,an Address calling the function.
 * ****Type Casting:**** Converts address into payable address.
-* ****Boolean:****
+* ****Boolean:**** Used to check if external call succeeded
 
 ## 📂 Project Structure (Files)
 
