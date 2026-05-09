@@ -46,6 +46,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * `Remix IDE` or `Foundry Development Kit`.
 
 ### Recommendation (For Beginners)
+****NOTE (Use Remix IDE, for quick prototyping):**** 
 
 ## Usage
 
