@@ -14,6 +14,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Withdrawal Functionality:**** Users can withdraw their deposited ETH.
 * ****Insufficient Funds Protection:**** The contract prevents users from withdrawing more than they own.
 * ****Invalid Withdrawal Protection:**** The contract blocks zero-value withdrawals.
+* ****ETH Transfer Success Verification:****
 
 ## 🧠 Key Concepts Applied
 
