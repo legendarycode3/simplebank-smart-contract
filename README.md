@@ -50,6 +50,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 
 ## Usage
 ### Building the Project (Using Remix IDE):
+1. Copy the core smart contract file code `SimpleBank.sol` to Remix IDE (a browser based IDE, for quick prototyping).
 
 ## 📋Contract Details
 
