@@ -63,7 +63,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
    ```shell
         cd simplebank-smart-contract
    ```
-3. Compile the smart contract: 
+3. Compile the smart contract: `forge build`
 
 ## 📋Contract Details
 
