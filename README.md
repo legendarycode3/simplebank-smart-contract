@@ -84,7 +84,7 @@ Runing specific test:
 ### Variables:
 * ****`s_depositors`:**** A variable that store the users that deposited.
 * ****`s_balances`:**** Ledger mapping address to their balances.
-* ****`MINIMUM_ETH`:****
+* ****`MINIMUM_ETH`:**** Variable for the minimum  value , needed to be deposited.
 
 ## Usage Guide (How to use - When using Remix IDE)
 
