@@ -17,7 +17,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****ETH Transfer Success Verification:**** Uses low-level .call() safely.
 * ****Balance Checking Function:**** Users can check their stored balance.
 * ****Depositor Address Storage:**** The contract keeps a list of all depositors.
-* ****Checks-Effects-Interactions Pattern:****
+* ****Checks-Effects-Interactions Pattern:**** Applied a Security pattern to reduce reentrancy risks.
 
 ## 🧠 Key Concepts Applied
 * ****Mapping:**** Key-value data structure. Maps wallet addresses to balances, it is a  Efficient storage lookup.
