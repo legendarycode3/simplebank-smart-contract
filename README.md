@@ -65,6 +65,8 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
    ```
 3. Compile the smart contract: `forge build`
 
+### Testing the contract (Using Foundry Development Kit )
+
 ## 📋Contract Details
 
 ## Usage Guide (How to use - When using Remix IDE)
