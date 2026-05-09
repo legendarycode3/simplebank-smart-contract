@@ -87,6 +87,7 @@ Runing specific test:
 * ****`MINIMUM_ETH`:**** Variable for the minimum  value , needed to be deposited.
 
 ## Usage Guide (How to use - When using Remix IDE)
+1. ****Compile:****
 
 ## Why This Matters (Simple Bank Smart Contract)****
 The Simple Bank smart contract matters in Web3 because it provides:
