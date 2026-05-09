@@ -29,7 +29,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Boolean:**** Used to check if external call succeeded
 
 ## 📂 Project Structure (Files)
-* ****`SimpleBank.sol`****:
+* ****`SimpleBank.sol`****: The core contract implementing the deposit(), withdraw(), checkBalance() functions.
 * ****`SimpleBank.t.sol`****:
 
 ## Technology Stack (Technologies Used)
