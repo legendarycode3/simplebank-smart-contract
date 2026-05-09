@@ -82,7 +82,7 @@ Runing specific test:
 * ****`checkBalance()`:****  function that allows a user to check their own internal balance within the smart contract.
 
 ### Variables:
-* ****`s_depositors`:****
+* ****`s_depositors`:**** A variable that store the users that deposited.
 
 ## Usage Guide (How to use - When using Remix IDE)
 
