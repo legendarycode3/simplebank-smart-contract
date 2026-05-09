@@ -77,6 +77,7 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
+* ****`deposit()`:****
 
 ### Variables:
 
