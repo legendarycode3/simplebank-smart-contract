@@ -89,6 +89,7 @@ Runing specific test:
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (Simple Bank Smart Contract)****
+The Simple Bank smart contract matters in Web3 because it provides
 
 ## Foundry
 
