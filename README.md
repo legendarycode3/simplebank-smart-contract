@@ -23,7 +23,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Dynamic Array:**** Stores multiple addresses in a list.
 * ****Public Visibility:**** Allows external access to variables/functions.
 * ****Functions:**** Reusable blocks of logic.
-* ****msg.sender:****
+* ****msg.sender:**** A global variable ,an Address calling the function.
 
 ## 📂 Project Structure (Files)
 
