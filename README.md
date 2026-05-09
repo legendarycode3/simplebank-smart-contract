@@ -16,7 +16,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Invalid Withdrawal Protection:**** The contract blocks zero-value withdrawals.
 * ****ETH Transfer Success Verification:**** Uses low-level .call() safely.
 * ****Balance Checking Function:**** Users can check their stored balance.
-* ****Depositor Address Storage:****
+* ****Depositor Address Storage:**** The contract keeps a list of all depositors.
 
 ## 🧠 Key Concepts Applied
 
