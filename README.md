@@ -56,6 +56,9 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 
 ### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 1. Clone the repository:
+   ```shell
+      git clone https://github.com/legendarycode3/simplebank-smart-contract
+   ```
 
 ## 📋Contract Details
 
