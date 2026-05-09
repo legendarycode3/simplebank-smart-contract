@@ -90,7 +90,7 @@ Runing specific test:
 
 ## Why This Matters (Simple Bank Smart Contract)****
 The Simple Bank smart contract matters in Web3 because it provides:
-1. ****Removal of Intermediaries:****
+1. ****Removal of Intermediaries:**** They eliminate the need for banks, bankers, or centra
 2. ****Automation and Speed:****
 3. ****Transparency and Trust:****
 4. ****Immutability:****
