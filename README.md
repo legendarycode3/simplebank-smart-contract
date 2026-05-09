@@ -90,7 +90,8 @@ Runing specific test:
 1. ****Compile:**** Compile the contract.
 2. ****Deployment:**** Contract deployment execution.
 3. ****deposit:**** Deposit fund using the (deposit function) into your address if you have no funds, and make sure it is higher or equalto the minimum ETH that can be accepted.
-4. ****checkBalance:**** After deposit has been done , now as a user , you have balance on your account, you can literally check your balance to comfirm.
+4. ****checkBalance:**** After deposit has been done , now as a user , you have balance on your account, you can literally check your balance to comfirm, using your address.
+5. ****withdraw:**** You can also now interact with the (withdrawal function), if you want to spend some cash .
 
 ## Why This Matters (Simple Bank Smart Contract)****
 The Simple Bank smart contract matters in Web3 because it provides:
