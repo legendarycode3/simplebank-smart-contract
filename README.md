@@ -30,6 +30,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 
 ## 📂 Project Structure (Files)
 * ****`SimpleBank.sol`****:
+* ****`SimpleBank.t.sol`****:
 
 ## Technology Stack (Technologies Used)
 
