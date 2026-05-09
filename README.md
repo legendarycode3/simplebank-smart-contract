@@ -92,7 +92,7 @@ Runing specific test:
 The Simple Bank smart contract matters in Web3 because it provides:
 1. ****Removal of Intermediaries:**** They eliminate the need for banks, bankers, or central servers to manage deposits and withdrawals, enabling peer-to-peer, self-custodied finance.
 2. ****Automation and Speed:**** Transactions are executed automatically upon meeting conditions (e.g., sufficient balance), reducing delays associated with traditional banking.
-3. ****Transparency and Trust:****
+3. ****Transparency and Trust:**** The contract code is visible on the blockchain, allowing
 4. ****Immutability:****
 5. ****24/7 Availability:****
 6. A foundational, trustless, and automated framework for managing digital assets, acting as a "vending machine" for banking services without needing a traditional intermediary.
