@@ -22,6 +22,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Mapping:**** Key-value data structure. Maps wallet addresses to balances, it is a  Efficient storage lookup.
 * ****Dynamic Array:**** Stores multiple addresses in a list.
 * ****Public Visibility:**** Allows external access to variables/functions.
+* ****Functions:****
 
 ## 📂 Project Structure (Files)
 
