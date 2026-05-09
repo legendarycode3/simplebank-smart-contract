@@ -83,6 +83,7 @@ Runing specific test:
 
 ### Variables:
 * ****`s_depositors`:**** A variable that store the users that deposited.
+* ****`s_balances`:****
 
 ## Usage Guide (How to use - When using Remix IDE)
 
