@@ -8,7 +8,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 4. This project demonstrates safe handling of ether transfers to prevent reentrancy attacks and ensures individual data privacy on a public ledger.
 
 ## 📌 Features
-* ****ETH Deposit Functionality:****
+* ****ETH Deposit Functionality:**** Users can deposit ETH into the contract using deposit().
 
 ## 🧠 Key Concepts Applied
 
