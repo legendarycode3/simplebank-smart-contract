@@ -78,6 +78,8 @@ Runing specific test:
 ## 📋Contract Details
 ### Functions:
 
+### Variables:
+
 ## Usage Guide (How to use - When using Remix IDE)
 
 ## Why This Matters (Simple Bank Smart Contract)****
