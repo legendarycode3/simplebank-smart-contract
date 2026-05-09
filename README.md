@@ -77,7 +77,8 @@ Runing specific test:
 
 ## 📋Contract Details
 ### Functions:
-* ****`deposit()`:**** Allows user to be able to deposit Eth into the contract.
+* ****`deposit()`:**** Allows user to be able to deposit Eth into their address.
+* ****`withdrawal()`:****
 
 ### Variables:
 
