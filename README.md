@@ -94,7 +94,8 @@ The Simple Bank smart contract matters in Web3 because it provides:
 2. ****Automation and Speed:****
 3. ****Transparency and Trust:****
 4. ****Immutability:****
-5. A foundational, trustless, and automated framework for managing digital assets, acting as a "vending machine" for banking services without needing a traditional intermediary.
+5. ****24/7 Availability:****
+6. A foundational, trustless, and automated framework for managing digital assets, acting as a "vending machine" for banking services without needing a traditional intermediary.
 
 ## Foundry
 
