@@ -88,6 +88,7 @@ Runing specific test:
 
 ## Usage Guide (How to use - When using Remix IDE)
 1. ****Compile:**** Compile the contract.
+2. ****Deployment: :****
 
 ## Why This Matters (Simple Bank Smart Contract)****
 The Simple Bank smart contract matters in Web3 because it provides:
