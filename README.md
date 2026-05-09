@@ -54,7 +54,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 2. Create a new file for the project on your Remix IDE and paste , to learn and build along faster.
 3. And then Compile the smart contract file you have created on Remix IDE.
 
-### Building the Project (Using Foundry Development Kit )
+### Building the Project (Using Foundry Development Kit ) - only if you are good using foundry kit
 
 ## 📋Contract Details
 
