@@ -13,6 +13,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****User Balance Tracking:**** Each user's deposited ETH is stored.
 * ****Withdrawal Functionality:**** Users can withdraw their deposited ETH.
 * ****Insufficient Funds Protection:**** The contract prevents users from withdrawing more than they own.
+* ****Invalid Withdrawal Protection:****
 
 ## 🧠 Key Concepts Applied
 
