@@ -43,6 +43,8 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 
 ### Prerequisites
 
+## Usage
+
 ## 📋Contract Details
 
 ## Usage Guide (How to use - When using Remix IDE)
