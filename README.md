@@ -24,6 +24,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 * ****Public Visibility:**** Allows external access to variables/functions.
 * ****Functions:**** Reusable blocks of logic.
 * ****msg.sender:**** A global variable ,an Address calling the function.
+* ****Type Casting:****
 
 ## 📂 Project Structure (Files)
 
