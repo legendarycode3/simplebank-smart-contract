@@ -42,6 +42,7 @@ A minimalist Ethereum smart contract that serves as a rudimentary bank, User can
 ## Getting Started
 
 ### Prerequisites
+* Solidity Compiler, Version ^0.8.19 or higher.
 
 ## Usage
 
